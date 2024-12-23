@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME_PREFIX: ghcr.io/luxcas/pai-poeta
+  IMAGE_NAME_PREFIX: ghcr.io/aquinocom/pai-poeta
   IMAGE_NAME_SUFFIX: frontend
   NODE_VERSION: 22.x
 
@@ -88,7 +88,7 @@ jobs:
           echo '| --- | --- |' >> $GITHUB_STEP_SUMMARY
           echo '| Lint | ${{ steps.lint.conclusion == 'failure' && '❌' || ' ✅' }} |' >> $GITHUB_STEP_SUMMARY
           echo '| i18n | ${{ steps.i18n.conclusion == 'failure' && '❌' || ' ✅' }} |' >> $GITHUB_STEP_SUMMARY
-          echo '| Unit Tests | ${{ steps.unit.conclusion == 'failure' && '❌' || ' ✅' }} |' >> $GITHUB_STEP_SUMMARY 
+          echo '| Unit Tests | ${{ steps.unit.conclusion == 'failure' && '❌' || ' ✅' }} |' >> $GITHUB_STEP_SUMMARY
 
   release:
     runs-on: ubuntu-latest

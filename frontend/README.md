@@ -3,9 +3,9 @@
 A new project using Plone 6.
 
 [![npm](https://img.shields.io/npm/v/volto-lx-paipoeta)](https://www.npmjs.com/package/volto-lx-paipoeta)
-[![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://luxcas.github.io/volto-lx-paipoeta/)
-[![Code analysis checks](https://github.com/luxcas/volto-lx-paipoeta/actions/workflows/code.yml/badge.svg)](https://github.com/luxcas/volto-lx-paipoeta/actions/workflows/code.yml)
-[![Unit tests](https://github.com/luxcas/volto-lx-paipoeta/actions/workflows/unit.yml/badge.svg)](https://github.com/luxcas/volto-lx-paipoeta/actions/workflows/unit.yml)
+[![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://aquinocom.github.io/volto-lx-paipoeta/)
+[![Code analysis checks](https://github.com/aquinocom/volto-lx-paipoeta/actions/workflows/code.yml/badge.svg)](https://github.com/aquinocom/volto-lx-paipoeta/actions/workflows/code.yml)
+[![Unit tests](https://github.com/aquinocom/volto-lx-paipoeta/actions/workflows/unit.yml/badge.svg)](https://github.com/aquinocom/volto-lx-paipoeta/actions/workflows/unit.yml)
 
 ## Features
 

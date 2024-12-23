@@ -15,7 +15,7 @@ GREEN=`tput setaf 2`
 RESET=`tput sgr0`
 YELLOW=`tput setaf 3`
 
-IMAGE_NAME_PREFIX=ghcr.io/luxcas/pai-poeta
+IMAGE_NAME_PREFIX=ghcr.io/aquinocom/pai-poeta
 IMAGE_TAG=latest
 
 # Python checks

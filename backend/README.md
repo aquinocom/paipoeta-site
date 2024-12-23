@@ -50,8 +50,8 @@ See also the documentation of [Mockup and Patternslib](https://6.docs.plone.org/
 
 ## Contribute
 
-- [Issue Tracker](https://github.com/luxcas/lx.paipoeta/issues)
-- [Source Code](https://github.com/luxcas/lx.paipoeta/)
+- [Issue Tracker](https://github.com/aquinocom/lx.paipoeta/issues)
+- [Source Code](https://github.com/aquinocom/lx.paipoeta/)
 
 ## License
 

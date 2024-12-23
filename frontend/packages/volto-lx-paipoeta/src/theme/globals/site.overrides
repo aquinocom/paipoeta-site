@@ -1,3 +1,15 @@
-body {background:url(http://paipoeta.com.br/imagem-bg-paipoeta2.jpg) no-repeat center center fixed;background-size:cover}
+body {background:url(../assets/images/imagem-bg-paipoeta2.jpg) no-repeat center center fixed;
+background-size:cover}
+
+@media screen and (max-width: 450px) {
+body {
+
+background-color: lightblue;
+
+}
+}
 
 
+.breadcrumbs {
+    display: none;
+}

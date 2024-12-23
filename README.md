@@ -2,8 +2,8 @@
 
 [![Built with Cookieplone](https://img.shields.io/badge/built%20with-Cookieplone-0083be.svg?logo=cookiecutter)](https://github.com/plone/cookiecutter-plone/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Backend Tests](https://github.com/luxcas/pai-poeta/actions/workflows/backend.yml/badge.svg)](https://github.com/luxcas/pai-poeta/actions/workflows/backend.yml)
-[![Frontend Tests](https://github.com/luxcas/pai-poeta/actions/workflows/frontend.yml/badge.svg)](https://github.com/luxcas/pai-poeta/actions/workflows/frontend.yml)
+[![Backend Tests](https://github.com/aquinocom/pai-poeta/actions/workflows/backend.yml/badge.svg)](https://github.com/aquinocom/pai-poeta/actions/workflows/backend.yml)
+[![Frontend Tests](https://github.com/aquinocom/pai-poeta/actions/workflows/frontend.yml/badge.svg)](https://github.com/aquinocom/pai-poeta/actions/workflows/frontend.yml)
 
 A new project using Plone 6.
 
